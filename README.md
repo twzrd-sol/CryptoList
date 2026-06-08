@@ -315,6 +315,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CoinMarketCap](https://coinmarketcap.com/api/) - Powerful JSON API covering 1000+ coins. Limit: 1 request per 6 sec.
 * [CoinCap](https://docs.coincap.io/) - Simple and informative. Lots of altcoins. History data. No limits.
 * [ChangeNOW](https://changenow.io/api/docs) - Easy integration of the cryptocurrency exchange. Limitless and fast coin swaps free of custody.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments.
 
 ## Other
 * [Bitpay](https://bitpay.com/) - Use BitPay's retail, ecommerce, billing, and donation tools to accept payments.
